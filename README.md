@@ -1,13 +1,13 @@
 # ECE564
 Mobile Application Development
 
-### Assignment 1
+### Assignment 1 - Single-View App
 
-### Assignment 2
+### Assignment 2 - Persistent Storage
 
-### Assignment 3
+### Assignment 3 - Multi-View App
 
-### Assignment 4
+### Assignment 4 - Communications
 
 ### Assignment 5
 
