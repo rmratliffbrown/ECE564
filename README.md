@@ -1,5 +1,4 @@
-# ECE564
-Mobile Application Development
+# ECE564: Mobile Application Development
 
 ### Assignment 1 - Single-View App
 
