@@ -8,6 +8,5 @@
 
 #### - [Communications]()
 
-#### - [SwiftUI Part 1]()
+#### - [SwiftUI Part 1]()/[SwiftUI Part 2]()
 
-#### - [SwiftUI Part 2]()
