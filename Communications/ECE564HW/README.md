@@ -17,7 +17,6 @@
 
 
 # Homework 4
-- Lost power so was not able to push again.
 
 ### Bonus: 
 - Update, Email, and Edit swipe features added. 
