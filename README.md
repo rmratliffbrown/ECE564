@@ -8,5 +8,5 @@
 
 #### - [Communications](https://youtu.be/16D8Hq1ERdY)
 
-#### - [SwiftUI Part 1]() / [SwiftUI Part 2]()
+#### - SwiftUI Part 1 / SwiftUI Part 2
 
