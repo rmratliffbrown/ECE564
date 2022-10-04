@@ -2,9 +2,9 @@
 
 #### - [Single-View App](https://youtu.be/d8LtsLtKCm4)
 
-#### - [Persistent Storage](https://youtu.be/fizhd4mPijk)
+#### - Persistent Storage
 
-#### - [Multi-View App]()
+#### - Multi-View App
 
 #### - [Communications](https://youtu.be/16D8Hq1ERdY)
 
