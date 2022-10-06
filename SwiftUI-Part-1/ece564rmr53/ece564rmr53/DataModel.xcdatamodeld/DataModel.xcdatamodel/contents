@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21279" systemVersion="22A5331f" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Person" representedClassName=".People" syncable="YES">
+        <attribute name="degree" attributeType="String"/>
+        <attribute name="department" attributeType="String"/>
+        <attribute name="email" attributeType="String"/>
+        <attribute name="firstname" attributeType="String"/>
+        <attribute name="gender" attributeType="String"/>
+        <attribute name="hobby" attributeType="String"/>
+        <attribute name="id" attributeType="String"/>
+        <attribute name="language" attributeType="String"/>
+        <attribute name="lastname" attributeType="String"/>
+        <attribute name="netid" attributeType="String"/>
+        <attribute name="picture" attributeType="String"/>
+        <attribute name="role" attributeType="String"/>
+        <attribute name="team" attributeType="String"/>
+        <attribute name="wherefrom" attributeType="String"/>
+    </entity>
+</model>
